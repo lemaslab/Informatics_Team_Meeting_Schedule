@@ -1,8 +1,7 @@
 
-## TITLE OF YOUR PAPER GOES HERE
+## Lemas Lab Informatics Team Meeting Schedule
 
-YOUR PAPER'S ABSTRACT GOES HERE
-
+This is a weekly meeting in Lemas Lab at University of Florida, which talks about project progress and informatics skills.
 
 
 ### Overview
@@ -34,17 +33,6 @@ YOUR PAPER'S ABSTRACT GOES HERE
 
 
 
-### How to regenerate this repository
+### Meeting Collections
 
-#### Dependencies and locations
-* Gnu Make should be located in the user's PATH
-* R (v. 3.X.X) should be located in the user's PATH
-* R packages:
-  * `knitr`
-  * `rmarkdown`
-* etc
-
-
-#### Running analysis
-
-
+[2020 Summer](https://github.com/lemaslab/Informatics_Team_Meeting_Schedule/wiki/2020-Summer)
