@@ -36,4 +36,5 @@ This is a weekly meeting in Lemas Lab at University of Florida, which talks abou
 ### Meeting Collections
 
 [2020 Summer](https://github.com/lemaslab/Informatics_Team_Meeting_Schedule/wiki/2020-Summer)
+
 [2020 Fall](https://github.com/lemaslab/Informatics_Team_Meeting_Schedule/wiki/2020-Fall)
